@@ -3,7 +3,7 @@
 This framework uses [Ginkgo](https://onsi.github.io/ginkgo/#getting-ginkgo) -- a BDD-style Go testing framework built to help you efficiently write expressive and comprehensive tests.
 
 Assumming a cluster already exists, the framework allows you to run tests against it. 
-- NOTE: As of Jan 10th, 2019, a cluster must first be setup beforehand; that is, we don't yet support automatic provisioning of a cluster, though we hope to have this feature in very shortly. :) 
+- NOTE: As of Jan 10th, 2019, a cluster must first be setup beforehand; that is, we don't yet support automatic provisioning of a cluster, though we hope to have this feature in very shortly. In the meantime, you can create a cluster using this repo: https://github.com/Nordix/k8s-ipv6
 
 ## Tests
 
